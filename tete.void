@@ -18,7 +18,7 @@ attrs:
     readOnlyHint: true
   requestUid: ""
   enabled: true
-  requestFilePath: voiden.void
+  requestFilePath: /Users/davindersingh/Voiden/sample-8/voiden_mcp/voiden.void
   requestSectionLabel: ""
   pluginId: voiden-mcp-tool
   pluginVersion: 0.1.0
@@ -36,13 +36,7 @@ content:
   - type: toolverifies
     attrs:
       uid: 11137d42-1226-4554-a397-f66119e435ad
-      rows:
-        - filePath: testing_echo.void
-          sectionLabel: ""
-          role: happy-path
-          cadence: hourly
-          mode: live
-          onFailure: withdraw
+      rows: []
 ---
 ```
 
