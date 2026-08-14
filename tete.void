@@ -18,7 +18,7 @@ attrs:
     readOnlyHint: true
   requestUid: ""
   enabled: true
-  requestFilePath: voiden.void
+  requestFilePath: /Users/davindersingh/Voiden/sample-8/voiden_mcp/voiden.void
   requestSectionLabel: ""
   pluginId: voiden-mcp-tool
   pluginVersion: 0.1.0
