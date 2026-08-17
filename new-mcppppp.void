@@ -10,13 +10,17 @@ generatedAt: 2026-08-17T06:17:56.922Z
 ---
 type: mcp-connection
 attrs:
+  uid: 6bb7daa2-6c8b-4fd2-96c6-79388a3ec5b8
   pluginId: voiden-mcp-client
   pluginVersion: 0.1.0
 content:
   - type: mcpurl
+    attrs:
+      uid: 2a86a754-d630-4ee6-a887-8bcad7df279c
     content: https://voiden-mcp-hanj.onrender.com
   - type: mcpoperation
     attrs:
+      uid: c260e56f-fe54-4065-a7b3-c65a984acb65
       capabilityType: tool
       toolName: dav
       resourceUri: ""
@@ -27,5 +31,13 @@ content:
         }
 ---
 ```
+
+%%EMPTY_LINE%%
+
+%%EMPTY_LINE%%
+
+%%EMPTY_LINE%%
+
+%%EMPTY_LINE%%
 
 %%EMPTY_LINE%%

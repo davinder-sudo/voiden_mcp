@@ -10,6 +10,7 @@ generatedAt: 2026-08-17T06:17:56.945Z
 ---
 type: tool
 attrs:
+  uid: 7cafafbf-ce63-4d91-b56f-5be4e5cfb3d2
   name: dev
   title: dev123
   description: this is the testing tool
@@ -24,6 +25,7 @@ attrs:
 content:
   - type: toolparams
     attrs:
+      uid: 8065c96b-8f96-46b8-9f1d-597940a8616f
       rows:
         - name: url
           binds: url
@@ -33,8 +35,17 @@ content:
           source: environment
   - type: toolverifies
     attrs:
+      uid: 76913207-d5e9-41f5-adf4-d06a66f91db3
       rows: []
 ---
 ```
+
+%%EMPTY_LINE%%
+
+%%EMPTY_LINE%%
+
+%%EMPTY_LINE%%
+
+%%EMPTY_LINE%%
 
 %%EMPTY_LINE%%
