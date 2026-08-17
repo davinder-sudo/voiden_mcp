@@ -1,6 +1,11 @@
-
 # Voiden
 .voiden/*
 !.voiden/env-public.yaml
 !.voiden/env-*-public.yaml
 .voiden-inherited.void
+.voiden/**
+.voiden/history/new-mcppppp-c4593bba-history.json
+.voiden/history/mcp-2-30a1875e-history.json
+
+# Voiden MCP registration (contains a machine-specific absolute path)
+.mcp.json
