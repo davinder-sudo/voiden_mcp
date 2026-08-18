@@ -35,7 +35,7 @@ attrs:
     readOnlyHint: true
   requestUid: ""
   enabled: true
-  requestFilePath: countries.void
+  requestFilePath: /Users/davindersingh/Voiden/sample-9/voiden_mcp-1/countries.void
   requestSectionLabel: ""
   pluginId: voiden-mcp-tool
   pluginVersion: 0.1.0
@@ -44,12 +44,12 @@ content:
     attrs:
       uid: 405450b8-83c1-4474-b88e-01cd103ce05e
       rows:
-        - name: dev
+        - name: token
           binds: token
           type: string
-          required: false
-          description: this is for Currency Conversion
-          source: environment
+          required: true
+          description: "Header: apy-token"
+          source: agent
   - type: toolverifies
     attrs:
       uid: 27fa2c0c-cc76-4864-bd67-47d814d0ce44
