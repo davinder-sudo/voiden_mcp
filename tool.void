@@ -35,7 +35,7 @@ attrs:
     readOnlyHint: true
   requestUid: ""
   enabled: true
-  requestFilePath: /Users/davindersingh/Voiden/sample-9/voiden_mcp-1/countries.void
+  requestFilePath: /Users/davindersingh/Voiden/voiden_mcp/countries.void
   requestSectionLabel: ""
   pluginId: voiden-mcp-tool
   pluginVersion: 0.1.0
