@@ -22,7 +22,7 @@ content:
     attrs:
       uid: c260e56f-fe54-4065-a7b3-c65a984acb65
       capabilityType: tool
-      toolName: country_1
+      toolName: country_123
       resourceUri: ""
       promptName: ""
       args: "{}"

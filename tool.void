@@ -47,7 +47,7 @@ content:
         - name: dev
           binds: token
           type: string
-          required: true
+          required: false
           description: this is for Currency Conversion
           source: environment
   - type: toolverifies
