@@ -10,3 +10,6 @@
 # Voiden MCP registration (contains a machine-specific absolute path)
 .mcp.json
 .voiden/history/countries-24b4f8bc-history.json
+.voiden/history/countries-a2ce4fa9-history.json
+.voiden/history/mcp-ffaca79f-history.json
+.voiden/history/new-mcppppp-98160fca-history.json

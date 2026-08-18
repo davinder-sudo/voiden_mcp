@@ -22,10 +22,13 @@ content:
     attrs:
       uid: c260e56f-fe54-4065-a7b3-c65a984acb65
       capabilityType: tool
-      toolName: country_123
+      toolName: dav
       resourceUri: ""
       promptName: ""
-      args: "{}"
+      args: |-
+        {
+          "david": ""
+        }
 ---
 ```
 

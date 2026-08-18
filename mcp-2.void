@@ -39,3 +39,42 @@ content:
 %%EMPTY_LINE%%
 
 %%EMPTY_LINE%%
+
+%%EMPTY_LINE%%
+
+%%EMPTY_LINE%%
+
+```void
+---
+type: assertions-table
+attrs:
+  uid: 5918cab5-7d27-404f-9be4-89cd0df5e250
+  importedFrom: ""
+  pluginId: simple-assertions
+  pluginVersion: 1.0.4
+content:
+  - type: table
+    rows:
+      - attrs:
+          disabled: false
+        row:
+          - Check status is OK
+          - status
+          - equals
+          - "200"
+      - attrs:
+          disabled: false
+        row:
+          - Response time check
+          - responseTime
+          - less-than
+          - "1000"
+      - attrs:
+          disabled: false
+        row:
+          - null
+          - null
+          - null
+          - null
+---
+```
