@@ -57,7 +57,8 @@ attrs:
       "targets": [
         "eur",
         "gbp",
-        "jpy"
+        "jpy",
+        "inr"
       ]
     }
   importedFrom: ""
