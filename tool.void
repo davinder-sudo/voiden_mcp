@@ -60,8 +60,14 @@ content:
 
 %%EMPTY_LINE%%
 
-%%EMPTY_LINE%%
-
+```void
+---
+type: paragraph
+attrs:
+  uid: a0569051-2cee-4729-809e-b70a86e4e311
+content: this is the test
+---
+```
 %%EMPTY_LINE%%
 
 %%EMPTY_LINE%%
