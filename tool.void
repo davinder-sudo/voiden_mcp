@@ -34,7 +34,7 @@ attrs:
     readOnlyHint: true
   requestUid: ""
   enabled: true
-  requestFilePath: /Users/davindersingh/Voiden/voiden_mcp/countries.void
+  requestFilePath: countries copy.void
   requestSectionLabel: ""
   pluginId: voiden-mcp-tool
   pluginVersion: 0.1.0
@@ -58,8 +58,14 @@ content:
 
 %%EMPTY_LINE%%
 
-%%EMPTY_LINE%%
-
+```void
+---
+type: paragraph
+attrs:
+  uid: 5d525ad8-9eda-48c5-963b-8633c62fceea
+content: this is second trst
+---
+```
 ```void
 ---
 type: paragraph
