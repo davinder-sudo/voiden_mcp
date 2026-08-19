@@ -34,7 +34,7 @@ attrs:
     readOnlyHint: true
   requestUid: ""
   enabled: true
-  requestFilePath: countries copy.void
+  requestFilePath: testing.void
   requestSectionLabel: ""
   pluginId: voiden-mcp-tool
   pluginVersion: 0.1.0
@@ -76,10 +76,11 @@ content: this is the test
 ```
 %%EMPTY_LINE%%
 
-%%EMPTY_LINE%%
-
-%%EMPTY_LINE%%
-
-%%EMPTY_LINE%%
-
-%%EMPTY_LINE%%
+```void
+---
+type: paragraph
+attrs:
+  uid: f3355ae1-3202-448c-9d2b-f6dae985906a
+content: this is the third text
+---
+```
